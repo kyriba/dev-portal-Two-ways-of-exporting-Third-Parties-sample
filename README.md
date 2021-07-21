@@ -31,6 +31,6 @@ git clone https://github.com/OlhaLevko/Third-parties-exporting.git
 
 6. Run application. You can run the whole application: Runtime -> Run all, or execute separated cells.
 
-7. Find the generated token under the 6th cell and the exported results under the 7th.
+7. Find the generated token under the 7th cell and the exported results under the 8th.
 
 > ⚠️  _Please notice that Python is script language and code will be executed row by row or in the order you will run the cells._

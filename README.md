@@ -33,6 +33,10 @@ git clone https://github.com/OlhaLevko/Third-parties-exporting.git
 
 7. Run application. You can run the whole application: Runtime -> Run all, or execute separated cells.
 
+> ⚠️  _Please notice that Python is script language and code will be executed row by row or in the order you will run the cells._
+
 8. Find the generated token under "Connect" cell and the exported results under cells in Exporting third-parties section.
 
-> ⚠️  _Please notice that Python is script language and code will be executed row by row or in the order you will run the cells._
+> ⚠️  _By default account information retrieved by Process Template API is not displayed in the results for user convenience._
+
+

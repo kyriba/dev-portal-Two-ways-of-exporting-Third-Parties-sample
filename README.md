@@ -29,13 +29,11 @@ git clone https://github.com/OlhaLevko/Third-parties-exporting.git
 
 5. In the left menu open Files ![files.png](files.png),  find 'content' folder and upload config.csv file into this folder.
 
-6. In the 8th cell choose the option in which format a report will be retrieved. It can be csv, json or both.
-
-7. Run application. You can run the whole application: Runtime -> Run all, or execute separated cells.
+6. Run application. You can run the whole application: Runtime -> Run all, or execute separated cells.
 
 > ⚠️  _Please notice that Python is script language and code will be executed row by row or in the order you will run the cells._
 
-8. Find the generated token under "Connect" cell and the exported results under cells in Exporting third-parties section.
+7. Find the generated token under "Connect" cell and the sample results in the next ones. The "Launch and Compare Third Parties and Process Template reports" will display the comparison results between both samples, and the next two "Show retrieved..." cells visualize the launched reports with customizable amount of rows displayed in CSV tables.
 
 > ⚠️  _By default account information retrieved by Process Template API is not displayed in the results for user convenience._
 

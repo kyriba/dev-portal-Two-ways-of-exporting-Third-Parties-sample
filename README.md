@@ -27,7 +27,7 @@ git clone https://github.com/OlhaLevko/Third-parties-exporting.git
 
 4. Open the jupyter notebook with Google Collab.
 
-5. In the left menu open Files ![files.png](files.png),  find 'content' folder and upload config.csv file into this folder.
+5. In the Table of Content on the left, click on the folder logo ![files.png](files.png) which opens Files section, find 'content' folder and upload config.csv file into this folder.
 
 6. Run application. You can run the whole application: Runtime -> Run all, or execute separated cells.
 

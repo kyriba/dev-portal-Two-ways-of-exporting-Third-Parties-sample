@@ -1,4 +1,4 @@
-# Export_Third_Parties
+# dev-portal-Export-Third-Parties-sample
 
 
 
@@ -16,7 +16,7 @@ Opening .ipynb files requires:
 1.  Copy the repository link, open Command Prompt, go to the location where file will be copied and execute git clone command:
 
 ```shell
-git clone https://github.com/OlhaLevko/Third-parties-exporting.git
+git clone https://github.com/kyriba/dev-portal-Export-Third-Parties-sample.git
 ```
 
 2. Import Third_parties_exporting.ipynb file into your Google Drive.

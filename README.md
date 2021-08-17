@@ -1,4 +1,4 @@
-# dev-portal-Export-Third-Parties-sample
+# dev-portal-Two-ways-of-exporting-Third-Parties-sample
 
 
 
@@ -16,7 +16,7 @@ Opening .ipynb files requires:
 1.  Copy the repository link, open Command Prompt, go to the location where file will be copied and execute git clone command:
 
 ```shell
-git clone https://github.com/kyriba/dev-portal-Export-Third-Parties-sample.git
+git clone https://github.com/kyriba/dev-portal-Two-ways-of-exporting-Third-Parties-sample.git
 ```
 
 2. Import Third_parties_exporting.ipynb file into your Google Drive.
@@ -33,8 +33,8 @@ git clone https://github.com/kyriba/dev-portal-Export-Third-Parties-sample.git
 
 > ⚠️  _Please notice that Python is script language and code will be executed row by row or in the order you will run the cells._
 
-7. Find the generated token under "Connect" cell and the sample results in the next ones. The "Launch and Compare Third Parties and Process Template reports" will display the comparison results between both samples, and the next two "Show retrieved..." cells visualize the launched reports with customizable amount of rows displayed in CSV tables.
+7. Find the generated token under "Connect" cell and the sample results in the next ones. The "Launch and Compare Third Parties and Process Templates reports" will display the comparison results between both samples, and the next two "Show retrieved..." cells visualize the launched reports with customizable amount of rows displayed in CSV tables.
 
-> ⚠️  _By default account information retrieved by Process Template API is not displayed in the results for user convenience._
+> ⚠️  _By default account information retrieved by Process Templates API is not displayed in the results for user convenience._
 
 
